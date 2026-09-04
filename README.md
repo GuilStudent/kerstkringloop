@@ -1,13 +1,14 @@
-# kerstkringloop
+# Kerstkringloop
 
 A Vite + React + TypeScript project. Repository initialized locally with an initial commit.
 
 Quick start
 
-Install dependencies: npm install
-Run dev server: npm run dev
+1. Install dependencies: `npm install`
+2. Run dev server: `npm run dev`
+
 To publish to GitHub:
 
-Create a repo on GitHub
-Add remote: git remote add origin https://github.com/USERNAME/REPO.git
-Push: git push -u origin main
+1. Create a repo on GitHub
+2. Add remote: `git remote add origin https://github.com/USERNAME/REPO.git`
+3. Push: `git push -u origin main`
